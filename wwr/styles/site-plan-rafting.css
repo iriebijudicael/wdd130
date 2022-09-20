@@ -29,7 +29,14 @@ Fonts are separated by a & */
 
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
-
+#active {
+  background-color: white;
+  color: steelblue;
+}
+.main-para {
+  font-size: 1.1em;
+  line-height: 1.1em;
+}
 body {
   max-width: 960px;
   margin: 0 auto;
